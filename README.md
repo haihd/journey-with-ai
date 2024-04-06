@@ -1,2 +1,2 @@
-# Jouney with AI blog repo
+# Journey with AI blog repo
 
